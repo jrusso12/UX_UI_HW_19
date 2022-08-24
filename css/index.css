@@ -1,7 +1,7 @@
-
-  
-  * {
-    @import: url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+<!DOCTYPE html>
+<html>
+<body>
+  @import: url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
 body {
   font-family: 'Roboto Condensed', sans-serif;
   height: 100%;
@@ -112,11 +112,6 @@ h1 {
   background-position: -200%;
   transition: background 300ms ease-in-out;
 }
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
   body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
